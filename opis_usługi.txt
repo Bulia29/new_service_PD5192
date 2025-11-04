@@ -4,3 +4,7 @@ okresowe wpłaty umożliwia korzytsanie z szeregu wybranych usług bez limitu.
 Wykupienie pakietu umożliwia również korzystanie ze specjalnej stronny
 internetowej dla pacjentów. 
 Cele: Ułatwienie dostępu do badań dla klientów  
+Korzyści dla pacjentów:
+ - oszczędność pieniędzy w przypadku odbywania wielu wizyt w krótkim okresie
+ - ułatwienie umawiania wizy i śledzenia ich wyników przez stronę
+ - większe poczucie bezpieczeństwa
