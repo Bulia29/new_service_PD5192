@@ -1,0 +1,4 @@
+Potencjalne ryzyka:
+1. wysoki koszt pakietu będzie nieopłacalny dla wielu, zwłaszcza młodszych klientów
+2. problemy ze stroną uniemożliwią umawianie wizyt
+3. w przypadku pacjentów korzystających z bardzo wielu usług może być to nieopłacalne dla firmy
