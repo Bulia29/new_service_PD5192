@@ -1,0 +1,6 @@
+Nazwa usługi: Pakiet medyczny
+Opis: Możliwość zakupienia przez klienta pakietu medycznego, który poprzez
+okresowe wpłaty umożliwia korzytsanie z szeregu wybranych usług bez limitu.
+Wykupienie pakietu umożliwia również korzystanie ze specjalnej stronny
+internetowej dla pacjentów. 
+Cele: Ułatwienie dostępu do badań dla klientów  
